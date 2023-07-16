@@ -1,0 +1,43 @@
+.f1 {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  font-size: 25px;
+  border: none;
+  height: 100%;
+  width: 100%;
+}
+.bmi {
+  display: flex;
+}
+h1 {
+  align-items: center;
+  font-size: 55px;
+}
+body {
+  background-color: #212121;
+  color: #fefdfd;
+}
+button {
+  height: 30px;
+  font-size: 17px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-radius: 2px;
+}
+button:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  background-color: #212121;
+  color: #fefdfd;
+}
+input {
+  height: 30px;
+  width: 300px;
+  border-radius: 2px;
+  outline: none;
+  font-size: 21px;
+  font-weight: 800px;
+}
